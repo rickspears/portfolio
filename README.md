@@ -1,0 +1,1 @@
+﻿Online Portfolio using MEAN Stack (MongoDB, ExpressJS, AngularJS, NodeJS). Planning to have this hosted on Heroku.
